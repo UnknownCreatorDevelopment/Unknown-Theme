@@ -4,9 +4,9 @@ Tired of the same old look? The **Origin Theme** is a lightweight, performance t
 
 ![A preview of Origin Theme.](https://i.imgur.com/q6y1dq4.png "Onyx Theme.")
 -
-![Direct Messages, Preview.](https://i.imgur.com/pX2UZ5D.png "DMs. (Onyx Theme)")
+![Direct Messages, Preview.](https://i.imgur.com/8mBvDl9.png "DMs. (Onyx Theme)")
 -
-## Light Mode is Not Recommended for now ![](https://i.imgur.com/4b407aW.png)
+## Light Mode is Not Recommended for now ![Not Supported: Light Mode.](https://i.imgur.com/QM7yDR3.png "Light Mode Preview.")
 light mode is under development for now...
 
 ##### An Origin Development Team™ Theme. Credits to [ClearVision](https://github.com/ClearVision/ClearVision-v7)
