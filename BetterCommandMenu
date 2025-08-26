@@ -60,9 +60,11 @@ visibility: visible !important;
   clip-path: inset(1px round 10px);
   background: linear-gradient(
     to right,
-    rgba(87, 45, 133, 0.8) 0%,
-    rgba(45, 52, 139, 1) 50%,
-    rgba(87, 45, 133, 0.8) 100%
+                rgba(151, 137, 203, 1) 0%,      /* Soft Lavender */
+                rgba(241, 198, 219, 1) 25%,     /* Soft Pink */
+                rgba(245, 226, 175, 1) 50%,     /* Light Yellow-Orange */
+                rgba(221, 238, 191, 1) 75%,     /* Pale Yellow-Green */
+                rgba(173, 222, 237, 1) 100%     /* Light Blue */
   );
 }
 
@@ -102,13 +104,6 @@ visibility: visible !important;
 /* ✨ Force white text for default color classes (improves readability) */
 .defaultColor__4bd52, .defaultColor__5345c {
     color: rgba(255, 255, 255, 0.885) !important;
-}
-
-/* 🎪 Autocomplete Container */
-.autocomplete__13533.autocomplete__6b0e0 {
-  max-height: 310px !important;
-  width: 500px !important;
-  border-radius: 13px;
 }
 
 /* 🖱️ Clickable Row (Base) */
@@ -160,9 +155,11 @@ visibility: visible !important;
   clip-path: inset(1px round 10px);
   background: linear-gradient(
     to right,
-    rgba(87, 45, 133, 0.8) 0%,
-    rgba(45, 52, 139, 1) 50%,
-    rgba(87, 45, 133, 0.8) 100%
+                rgba(151, 137, 203, 1) 0%,      /* Soft Lavender */
+                rgba(241, 198, 219, 1) 25%,     /* Soft Pink */
+                rgba(245, 226, 175, 1) 50%,     /* Light Yellow-Orange */
+                rgba(221, 238, 191, 1) 75%,     /* Pale Yellow-Green */
+                rgba(173, 222, 237, 1) 100%     /* Light Blue */
   );
 }
 
@@ -186,9 +183,11 @@ visibility: visible !important;
   clip-path: inset(1px round 10px);
   background: linear-gradient(
     to right,
-    rgba(87, 45, 133, 0.8) 0%,
-    rgba(45, 52, 139, 1) 50%,
-    rgba(87, 45, 133, 0.8) 100%
+                rgba(151, 137, 203, 1) 0%,      /* Soft Lavender */
+                rgba(241, 198, 219, 1) 25%,     /* Soft Pink */
+                rgba(245, 226, 175, 1) 50%,     /* Light Yellow-Orange */
+                rgba(221, 238, 191, 1) 75%,     /* Pale Yellow-Green */
+                rgba(173, 222, 237, 1) 100%     /* Light Blue */
   );
 }
-
+/*-------------------------- Unknown Theme V2.01 ------------------------*/
