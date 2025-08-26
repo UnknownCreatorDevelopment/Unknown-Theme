@@ -19,7 +19,7 @@
   }
 } /*! ClearVision v7.0.1 by ClearVision Team */
 .info__2debe::after {
-  content: "Unknown" " " "V1.0.2";
+  content: "Unknown" " " "V2.0.0";
   color: var(--text-muted);
   font-size: 12px;
   line-height: 1.3333333333;
@@ -37,7 +37,7 @@
   filter: drop-shadow(0 0 5px var(--hsl-main-color));
 }
 .visual-refresh:not(.platform-osx) .leading_c38106::after {
-  content: "V1.0.2";
+  content: "V2.0.0";
   position: static;
   margin-top: -5px;
   margin-left: 5px;
