@@ -1,7 +1,7 @@
 /**
- * @name UnknownV2.00 / ClearVisionV7
+ * @name UnknownV2.01 / ClearVisionV7
  * @author UnknownCreatorDevelopmentTeam™, ClearVisionTeam
- * @version 2.0.0, 7.0.1
+ * @version 2.0.1, 7.0.1
  * @description Custom theme.
  * @source https://github.com/ClearVision/ClearVision-v7
  */
@@ -9,7 +9,6 @@
 @import url("https://raw.githubusercontent.com/UnknownCreatorDevelopment/Unknown-Theme/refs/heads/main/CVM.css"); /* https://clearvision.github.io/ClearVision-v7/main.css */
 @import url("https://clearvision.github.io/ClearVision-v7/vencord.css");
 @import url("https://raw.githubusercontent.com/UnknownCreatorDevelopment/Unknown-Theme/refs/heads/main/BetterCommandMenu");
-@import url(https://raw.githubusercontent.com/sadan4/discordStyles/refs/heads/main/src/cleanup/roundedProfileDecorations.css);
 /* SETTINGS */
 :root {
   /* ACCENT COLORS */
@@ -107,4 +106,4 @@
 
 /* ADDITIONAL CSS BELOW HERE */
 
-/*-------------------------- Unknown Theme V2.00 ------------------------*/
+/*-------------------------- Unknown Theme V2.01 ------------------------*/
